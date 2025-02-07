@@ -1,4 +1,4 @@
-# <span style="color:#8a1dcf">** C<sup>3</sup> : Climate - Code - Computation**</span>
+# <span style="color:#8a1dcf">C<sup>3</sup> : Climate - Code - Computation</span>
 
 A collection of teaching resources for computational climatology, including coding exercises (Fortran and Python ) organised into jupyter notebooks.
 
