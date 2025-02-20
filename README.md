@@ -8,18 +8,18 @@ A collection of teaching resources for computational climatology, including codi
 
 #### <span style="color:#4d4d4d">1.1 Energy Balance Model</span>
 
-- Jupyter notebook for exercise in Fortran
-- Jupyter notebook for exercise in Python
+- **Description**: A simple 1D energy balance model that lets you calculate Earth's mean global temperature.
+- **Notebook Implementations**: Fortran and Python
 
 #### <span style="color:#4d4d4d">1.2 Wildfire Model (Euler Method) </span>
 
-- Jupyter notebook for exercise in Fortran
-- Jupyter notebook for exercise in Python
+- **Description**: A simple 2D model that relies on the Euler method to simulate wildfire spread.
+- **Notebook Implementations**: Fortran and Python
 
 #### <span style="color:#4d4d4d">1.3 Wildfire Model (Cellular Automaton) </span>
 
-- Jupyter notebook for exercise in Fortran
-- Jupyter notebook for exercise in Python
+- **Description**: A simple cellular automaton model to simulate wildfire spread.
+- **Notebook Implementations**: Fortran and Python
 
 ### <span style="color:#4d4d4d">2. Supplemental Code</span>
 
