@@ -29,12 +29,15 @@ A collection of teaching resources for computational climatology, including codi
 
 | Contents                   | Implemented |
 | -------------------------- | ----------- |
-| Energy Balance Model (py)  | ✓           |
 | Energy Balance Model (f90) | -           |
-| Wildfire Euler (py)        | ✓           |
+| Energy Balance Model (py)  | ✓           |
 | Wildfire Euler (f90)       | -           |
-| Wildfire CA (py)           | -           |
+| Wildfire Euler (py)        | ✓           |
 | Wildfire CA (f90)          | -           |
+| Wildfire CA (py)           | -           |
+| Mountain Wave Model (f90)  | -           |
+| Mountain Wave Model (py)   | -           |
+
 
 ## <span style="color:#8a1dcf">Requirements:</span>
 
