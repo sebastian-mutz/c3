@@ -1,5 +1,7 @@
 # <span style="color:#8a1dcf">C<sup>3</sup> : Climate - Code - Computation</span>
 
+[![GitHub](https://img.shields.io/github/license/sebastian-mutz/c3)](https://github.com/sebastian-mutz/c3/blob/main/LICENCE)
+
 A collection of teaching resources for computational climatology, including coding exercises (Fortran and Python ) organised into jupyter notebooks.
 
 ## <span style="color:#8a1dcf">Contents:</span>
