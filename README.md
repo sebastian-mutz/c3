@@ -23,6 +23,11 @@ A collection of teaching resources for computational climatology, including codi
 - **Description**: A simple cellular automaton model to simulate wildfire spread.
 - **Notebook Implementations**: Fortran and Python
 
+#### <span style="color:#4d4d4d">1.4 Moutain Wave Model </span>
+
+- **Description**: A simple model for prediction mountain waves and associated precipitation.
+- **Notebook Implementations**: Fortran and Python
+
 ### <span style="color:#4d4d4d">2. Supplemental Code</span>
 
 A separate .py and .f90 is provided with each notebook. These contain the code decoupled from the notebook.
@@ -37,6 +42,8 @@ A separate .py and .f90 is provided with each notebook. These contain the code d
 | Wildfire Euler (py)        | ✓           |
 | Wildfire CA (f90)          | -           |
 | Wildfire CA (py)           | -           |
+| Moutain Wave Model (f90)   | -           |
+| Moutain Wave Model (py)    | -           |
 
 
 ## <span style="color:#8a1dcf">Requirements:</span>
@@ -48,3 +55,4 @@ A separate .py and .f90 is provided with each notebook. These contain the code d
 
 ### Fortran:
 - [LFortran (interactive compiler)](https://github.com/lfortran/lfortran)
+- [FPLT (Fortran Plotting Library))](https://github.com/sebastian-mutz/fplt)
