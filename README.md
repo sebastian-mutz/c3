@@ -25,7 +25,7 @@ A collection of teaching resources for computational climatology, including codi
 
 ### <span style="color:#4d4d4d">2. Supplemental Code</span>
 
-### <span style="color:#4d4d4d">3. Images</span>
+A separate .py and .f90 is provided with each notebook. These contain the code decoupled from the notebook.
 
 ## <span style="color:#8a1dcf">Progress:</span>
 
@@ -37,8 +37,6 @@ A collection of teaching resources for computational climatology, including codi
 | Wildfire Euler (py)        | ✓           |
 | Wildfire CA (f90)          | -           |
 | Wildfire CA (py)           | -           |
-| Mountain Wave Model (f90)  | -           |
-| Mountain Wave Model (py)   | -           |
 
 
 ## <span style="color:#8a1dcf">Requirements:</span>
@@ -50,4 +48,3 @@ A collection of teaching resources for computational climatology, including codi
 
 ### Fortran:
 - [LFortran (interactive compiler)](https://github.com/lfortran/lfortran)
-- [Plplot](https://sourceforge.net/p/plplot/plplot/ci/master/tree/)
